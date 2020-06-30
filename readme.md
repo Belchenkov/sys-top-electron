@@ -2,6 +2,7 @@
 
 > Create application on Electron.js for monitors your system CPU
 
+### [Demo](https://github.com/Belchenkov/sys-top-electron/releases/tag/1.0.0)
 
 ## Getting Started
 
